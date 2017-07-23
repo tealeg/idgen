@@ -1,1 +1,3 @@
 +TITLE: idgen
+
+Just some code to bulk generate UUIDs quickly.
